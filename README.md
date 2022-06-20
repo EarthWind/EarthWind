@@ -10,13 +10,15 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=EarthWind&repo=drawio)](https://github.com/EarthWind/drawio)
 
 
+### ⚡ 3.MY STATS
 
-### ⚡ 3.MY STATUS
-[![EarthWind's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EarthWind)](https://github.com/anuraghazra/github-readme-stats)
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=EarthWind&theme=dracula&hide_border=true)
 
-[![EarthWind's GitHub stats](https://github-readme-stats.vercel.app/api?username=EarthwIND)](https://github.com/anuraghazra/github-readme-stats)
-
-
+<p align="center">
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=EarthWind&show_icons=true&theme=dracula&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&layout=compact&hide_border=true" alt="EarthWind" /> 
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=EarthWind&show_icons=true&theme=dracula&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&hide_border=true" alt="EarthWind" />
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=larymak&theme=highcontrast&hide_border=true" alt="EarthWind" />
+</p>
 
 <!---
 EarthWind/EarthWind is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
