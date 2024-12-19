@@ -1,26 +1,37 @@
-### 👋 1.HELLO WORLD 
- I’m currently working on 🔭:
+# Hi there, I'm EarthWind! 👋
 
-<a href="https://github.com/ceph/ceph">
-  <img src="https://ceph.io/assets/bitmaps/Ceph_Logo_Standard_RGB_120411_fa.png" height="120px">
-</a>
+Welcome to my GitHub profile! I'm a passionate developer with a keen interest in web development, open-source contributions, and learning new technologies.
 
-### 🌱 2.MY PROJECT
+## 🚀 About Me
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=EarthWind&repo=drawio)](https://github.com/EarthWind/drawio)
+- 🌱 I’m currently learning **React.js** and **Node.js**
+- 👯 I’m looking to collaborate on open-source projects
+- 💬 Ask me about **JavaScript**, **Python**, and **Web Development**
+- 📫 How to reach me: [earthwind@example.com](mailto:earthwind@example.com)
+- ⚡ Fun fact: I love hiking and exploring the great outdoors!
 
+## 🛠️ Technologies & Tools
 
-### ⚡ 3.MY STATS
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
+![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
+![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5)
+![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=EarthWind&theme=dracula&hide_border=true)
+## 📈 GitHub Stats
 
-<p align="center">
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=EarthWind&show_icons=true&theme=dracula&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&layout=compact&hide_border=true" alt="EarthWind" /> 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=EarthWind&show_icons=true&theme=dracula&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&hide_border=true" alt="EarthWind" />
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=larymak&theme=highcontrast&hide_border=true" alt="EarthWind" />
-</p>
+![EarthWind's GitHub stats](https://github-readme-stats.vercel.app/api?username=EarthWind&show_icons=true&theme=radical)
 
-<!---
-EarthWind/EarthWind is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 📌 Pinned Repositories
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=EarthWind&repo=awesome-project&theme=radical)](https://github.com/EarthWind/awesome-project)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=EarthWind&repo=another-cool-project&theme=radical)](https://github.com/EarthWind/another-cool-project)
+
+## 📫 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-black?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/earthwind)
+[![Twitter](https://img.shields.io/badge/-Twitter-black?style=flat-square&logo=twitter)](https://twitter.com/earthwind)
+
+Thanks for visiting my profile, and feel free to reach out if you want to collaborate or just say hi! 😊
