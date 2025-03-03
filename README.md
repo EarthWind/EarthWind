@@ -7,7 +7,7 @@ Welcome to my GitHub profile! I'm a passionate developer with a keen interest in
 - 🌱 I’m currently learning **React.js** and **Node.js**
 - 👯 I’m looking to collaborate on open-source projects
 - 💬 Ask me about **JavaScript**, **Python**, and **Web Development**
-- 📫 How to reach me: [earthwind@example.com](mailto:earthwind@example.com)
+- 📫 How to reach me: [earth_github@163.com](mailto:earth_github@163.com)
 - ⚡ Fun fact: I love hiking and exploring the great outdoors!
 
 ## 🛠️ Technologies & Tools
