@@ -27,6 +27,7 @@ Welcome to my GitHub profile! I'm a passionate developer with a keen interest in
 ## 📌 Pinned Repositories
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=EarthWind&repo=deeparch&theme=radical)](https://github.com/EarthWind/deeparch)
+
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=EarthWind&repo=deepblog&theme=radical)](https://github.com/EarthWind/deepblog)
 
 ## 📫 Connect with Me
